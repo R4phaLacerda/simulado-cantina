@@ -1,0 +1,14 @@
+Requisitos Funcionais: 
+- Criação de produtos;
+- Edição, exclusão de produtos;
+- Login de usuários e cadastro;
+- Controle de estoque;
+- Registro de vendas;
+- Consulta de produtos.
+
+
+
+Requisitos Não-Funcionais:
+- Alto desempenho;
+- Segurança;
+- Estilo UX/UI.
